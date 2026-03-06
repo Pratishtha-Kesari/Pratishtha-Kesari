@@ -70,20 +70,9 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
-
----
-
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://linkedin.com/in/pratishtha-kesari
-💻 LeetCode: https://leetcode.com/
+🔗 LinkedIn: [https://linkedin.com/in/pratishtha-kesari](https://www.linkedin.com/in/pratishtha-kesari-21a003253/)
+💻 LeetCode: [https://leetcode.com/](https://leetcode.com/u/Pratishtha_Kesari/)
 📧 Email: [pratishtha436@gmail.com](mailto:pratishtha436@gmail.com)
