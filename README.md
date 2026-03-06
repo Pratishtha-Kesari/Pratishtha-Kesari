@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Pratishtha 👋
 
-<!--
-**Pratishtha-Kesari/Pratishtha-Kesari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Final Year Computer Science Student  
+🚀 Java Backend Developer | Spring Boot | Microservices
 
-Here are some ideas to get you started:
+## About Me
+- Passionate about building scalable backend systems
+- Experienced with Spring Boot and REST APIs
+- Solved 150+ problems on LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Java | Spring Boot | Microservices | React  
+MySQL | Docker | Git | REST APIs
+
+## Projects
+🔹 Bus Ticket Booking System (Microservices)  
+🔹 Online Quiz Platform (Docker + Microservices)  
+🔹 Event Management System (Spring Cloud + JWT)
+
+## Connect With Me
+LinkedIn: https://linkedin.com/in/pratishtha-kesari  
+LeetCode: https://leetcode.com/
