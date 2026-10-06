@@ -8,11 +8,11 @@
 
 ## 👩‍💻 About Me
 
-🎓 Final Year Computer Science Engineering Student  
+🎓 2026 Computer Science Student   
 💻 Java Backend Developer specializing in **Spring Boot & Microservices**  
 🚀 I build scalable backend systems and REST APIs with clean architecture  
 🧠 Solved **150+ DSA problems on LeetCode**  
-☁️ Interested in **Backend Engineering, System Design & Cloud Technologies**  
+☁️ Interested in **Backend Engineering, Software Development, Java Full Stack**  
 
 ---
 
